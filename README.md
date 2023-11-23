@@ -4,6 +4,6 @@ Certs: A+ Network+ Security+
 
 Skills: Java Linux Windows
 
-Learning: Azure Python SQL
+Learning: AWS Python SQL
 
 Education: BA JD University of Michigan
