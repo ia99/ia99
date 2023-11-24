@@ -1,25 +1,8 @@
 # Ian Allen (ia99)  
-## About Me  
-Certs  
+Certs:  A+ Network+ Security+  
 
-***  
+Skills:  Java Linux Windows  
   
-A+ Network+ Security+  
-
-Skills  
-
-***  
+Learning:  AWS Python SQL  
   
-Java Linux Windows  
-  
-Learning  
-
-***  
-  
-AWS Python SQL  
-  
-Education  
-
-***  
-  
-BA JD University of Michigan
+Education:  BA JD University of Michigan
