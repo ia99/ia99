@@ -1,7 +1,7 @@
 # Ian Allen (ia99)  
 
-Certs:  A+ Network+ Security+  
+A+ Network+ Security+
 
-Skills:  Java Linux Windows
-  
-Education:  BA JD University of Michigan
+BA JD University of Michigan
+
+![Skills](https://skillicons.dev/icons?i=aws,github,idea,java,linux,py,vim,vscode)
