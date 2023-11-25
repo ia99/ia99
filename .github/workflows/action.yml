@@ -12,4 +12,4 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
-          CREDLY_USER: <ian-allen.902552f3> # optional, but default will use the same from github
+          CREDLY_USER: <ianallen@gmail.com> # optional, but default will use the same from github
