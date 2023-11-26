@@ -6,12 +6,8 @@
 
 <p float="left">
 <a href="https://www.credly.com/users/ian-allen.902552f3/badges">
-<img src="img/CompTIAAplustr.png" width=50> 
-</a>
-<a href="https://www.credly.com/users/ian-allen.902552f3/badges">
+<img src="img/CompTIAAplustr.png" width=50>
 <img src="img/CompTIANetworkplustr.png" width=50> 
-</a>
-<a href="https://www.credly.com/users/ian-allen.902552f3/badges">
 <img src="img/CompTIASecurityplustr.png" width=50>
 </a>
 </p>
