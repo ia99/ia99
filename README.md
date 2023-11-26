@@ -5,9 +5,9 @@
 </p>
 
 <p float="left">
-<img src="img/CompTIAAplus.png" width=50> 
-<img src="img/CompTIANetworkplus.png" width=50> 
-<img src="img/CompTIASecurityplus.png" width=50>
+<img src="img/CompTIAAplustr.png" width=50> 
+<img src="img/CompTIANetworkplustr.png" width=50> 
+<img src="img/CompTIASecurityplustr.png" width=50>
 </p>
 
 
