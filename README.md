@@ -4,13 +4,13 @@
 </p>
 
 <p float="left">
-<a href="https://www.credly.com/users/ian-allen.902552f3/badges" style="text-decoration:none">
+<a href="https://www.credly.com/users/ian-allen.902552f3/badges" style="text-decoration:none; outline:none">
 <img src="img/CompTIAAplustr.png" width=50>
 </a>
-<a href="https://www.credly.com/users/ian-allen.902552f3/badges" style="text-decoration:none">
+<a href="https://www.credly.com/users/ian-allen.902552f3/badges" style="text-decoration:none; outline:none">
 <img src="img/CompTIANetworkplustr.png" width=50> 
 </a>
-<a href="https://www.credly.com/users/ian-allen.902552f3/badges" style="text-decoration:none">
+<a href="https://www.credly.com/users/ian-allen.902552f3/badges" style="text-decoration:none; outline:none">
 <img src="img/CompTIASecurityplustr.png" width=50>
 </a>
 </p>
